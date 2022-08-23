@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\bin\Debug\CheckConnectionString.exe.config
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\bin\Debug\CheckConnectionString.exe
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\bin\Debug\CheckConnectionString.pdb
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\View\MainWindow.g.cs
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\App.g.cs
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString_MarkupCompile.cache
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString_MarkupCompile.lref
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\View\MainWindow.baml
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.g.resources
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.Properties.Resources.resources
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.exe
+C:\Users\User\Desktop\programy\CheckConnectionStringApp\CheckConnectionString\obj\Debug\CheckConnectionString.pdb
